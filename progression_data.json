@@ -1,0 +1,74 @@
+{
+  "usuarios": {
+    "Hombre_23_1761267405": {
+      "cargas_actuales": {
+        "Cardio": {
+          "Cinta/Trote": {
+            "intensidad": "60%",
+            "duracion_min": 20
+          },
+          "Bicicleta": {
+            "intensidad": "65%",
+            "duracion_min": 25
+          },
+          "Elíptica": {
+            "intensidad": "60%",
+            "duracion_min": 20
+          }
+        }
+      }
+    },
+    "Hombre_25_1761267477": {
+      "cargas_actuales": {
+        "Fuerza": {
+          "Press banca": {
+            "kg": 20.0,
+            "reps": 12,
+            "series": 3
+          },
+          "Sentadillas": {
+            "kg": 30.0,
+            "reps": 12,
+            "series": 3
+          },
+          "Peso muerto": {
+            "kg": 40.0,
+            "reps": 10,
+            "series": 3
+          },
+          "Press militar": {
+            "kg": 15.0,
+            "reps": 12,
+            "series": 3
+          }
+        }
+      }
+    },
+    "Hombre_25_1761267710": {
+      "cargas_actuales": {
+        "Fuerza": {
+          "Press banca": {
+            "kg": 20.0,
+            "reps": 12,
+            "series": 3
+          },
+          "Sentadillas": {
+            "kg": 30.0,
+            "reps": 12,
+            "series": 3
+          },
+          "Peso muerto": {
+            "kg": 40.0,
+            "reps": 10,
+            "series": 3
+          },
+          "Press militar": {
+            "kg": 15.0,
+            "reps": 12,
+            "series": 3
+          }
+        }
+      }
+    }
+  }
+}

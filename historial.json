@@ -1,0 +1,610 @@
+[
+  {
+    "timestamp": null,
+    "usuario": {
+      "genero": "Hombre",
+      "edad": 26,
+      "estatura_cm": 133,
+      "peso_kg": 76,
+      "motivo": "Salud",
+      "imc": 42.96,
+      "imc_bin": "obesidad"
+    },
+    "rutina": {
+      "Lunes": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Bicicleta estática",
+          30
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Martes": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Flexiones + zancadas",
+          30
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Miércoles": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Jueves": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Cinta / Trote suave",
+          25
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      },
+      "Viernes": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Sábado": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Elíptica",
+          25
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Domingo": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      }
+    },
+    "rutina_label": "Cardio"
+  },
+  {
+    "timestamp": null,
+    "usuario": {
+      "genero": "Hombre",
+      "edad": 38,
+      "estatura_cm": 172,
+      "peso_kg": 101,
+      "motivo": "Salud",
+      "imc": 34.14,
+      "imc_bin": "obesidad"
+    },
+    "rutina": {
+      "Lunes": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Martes": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Saltar cuerda (intervalos)",
+          15
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Miércoles": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Saltar cuerda (intervalos)",
+          15
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Jueves": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Viernes": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Burpees + plancha",
+          25
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Sábado": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Elíptica",
+          25
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Domingo": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Cinta / Trote suave",
+          25
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      }
+    },
+    "rutina_label": "Cardio"
+  },
+  {
+    "timestamp": null,
+    "usuario": {
+      "genero": "Hombre",
+      "edad": 24,
+      "estatura_cm": 162,
+      "peso_kg": 70,
+      "motivo": "Salud",
+      "imc": 26.67,
+      "imc_bin": "sobrepeso"
+    },
+    "rutina": {
+      "Lunes": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Circuito fullbody",
+          40
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Martes": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Circuito fullbody",
+          40
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Miércoles": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Jueves": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Flexiones + zancadas",
+          30
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Viernes": {
+        "rutina_tipo": "HIIT",
+        "primary": [
+          "Saltos de caja",
+          20
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Sábado": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Saltar cuerda (intervalos)",
+          15
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Domingo": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Elíptica",
+          25
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      }
+    },
+    "rutina_label": "Fullbody"
+  },
+  {
+    "timestamp": null,
+    "usuario": {
+      "genero": "Hombre",
+      "edad": 24,
+      "estatura_cm": 162,
+      "peso_kg": 70,
+      "motivo": "Salud",
+      "imc": 26.67,
+      "imc_bin": "sobrepeso"
+    },
+    "rutina": {
+      "Lunes": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Elíptica",
+          25
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      },
+      "Martes": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Miércoles": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Bicicleta estática",
+          30
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      },
+      "Jueves": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Circuito fullbody",
+          40
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      },
+      "Viernes": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Circuito fullbody",
+          40
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Sábado": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Flexiones + zancadas",
+          30
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Domingo": {
+        "rutina_tipo": "HIIT",
+        "primary": [
+          "Burpees explosivos",
+          15
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      }
+    },
+    "rutina_label": "Fullbody"
+  },
+  {
+    "timestamp": null,
+    "usuario": {
+      "genero": "Hombre",
+      "edad": 24,
+      "estatura_cm": 162,
+      "peso_kg": 70,
+      "motivo": "Salud",
+      "imc": 26.67,
+      "imc_bin": "sobrepeso"
+    },
+    "rutina": {
+      "Lunes": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Saltar cuerda (intervalos)",
+          15
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Martes": {
+        "rutina_tipo": "Yoga",
+        "primary": [
+          "Estiramientos y movilidad",
+          30
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Miércoles": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Cinta / Trote suave",
+          25
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Jueves": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Viernes": {
+        "rutina_tipo": "Fullbody",
+        "primary": [
+          "Burpees + plancha",
+          25
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Sábado": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Bicicleta estática",
+          30
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      },
+      "Domingo": {
+        "rutina_tipo": "HIIT",
+        "primary": [
+          "Saltos de caja",
+          20
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      }
+    },
+    "rutina_label": "Cardio"
+  },
+  {
+    "timestamp": null,
+    "usuario": {
+      "genero": "Hombre",
+      "edad": 18,
+      "estatura_cm": 153,
+      "peso_kg": 87,
+      "motivo": "Salud",
+      "imc": 37.17,
+      "imc_bin": "obesidad"
+    },
+    "rutina": {
+      "Lunes": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Saltar cuerda (intervalos)",
+          15
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Martes": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Bicicleta estática",
+          30
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      },
+      "Miércoles": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Elíptica",
+          25
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      },
+      "Jueves": {
+        "rutina_tipo": "Yoga",
+        "primary": [
+          "Estiramientos y movilidad",
+          30
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Viernes": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Sábado": {
+        "rutina_tipo": "Yoga",
+        "primary": [
+          "Secuencia de posturas básicas",
+          25
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Domingo": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      }
+    },
+    "rutina_label": "Cardio"
+  },
+  {
+    "timestamp": null,
+    "usuario": {
+      "genero": "Hombre",
+      "edad": 17,
+      "estatura_cm": 147,
+      "peso_kg": 65,
+      "motivo": "Salud",
+      "imc": 30.08,
+      "imc_bin": "obesidad"
+    },
+    "rutina": {
+      "Lunes": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Martes": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Elíptica",
+          25
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Miércoles": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Cinta / Trote suave",
+          25
+        ],
+        "complement": [
+          "Core / Abdominales",
+          15
+        ]
+      },
+      "Jueves": {
+        "rutina_tipo": "Descanso",
+        "primary": [
+          "Descanso / Recuperación",
+          0
+        ],
+        "complement": null
+      },
+      "Viernes": {
+        "rutina_tipo": "Yoga",
+        "primary": [
+          "Estiramientos y movilidad",
+          30
+        ],
+        "complement": [
+          "Circuito ligero",
+          10
+        ]
+      },
+      "Sábado": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Cinta / Trote suave",
+          25
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      },
+      "Domingo": {
+        "rutina_tipo": "Cardio",
+        "primary": [
+          "Bicicleta estática",
+          30
+        ],
+        "complement": [
+          "Estiramientos",
+          10
+        ]
+      }
+    },
+    "rutina_label": "Cardio"
+  }
+]
