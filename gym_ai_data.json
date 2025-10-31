@@ -1,0 +1,26 @@
+{
+  "learning_data": {
+    "successful_routines": [],
+    "user_feedback": [
+      {
+        "usuario": "juan",
+        "fecha": "2025-10-29T00:35:12.227766",
+        "dificultad": 1,
+        "comentarios": "ninguno",
+        "perfil": {
+          "edad": 23,
+          "nivel": "principiante",
+          "objetivo": "perder_peso"
+        }
+      }
+    ],
+    "adaptation_history": [
+      {
+        "fecha": "2025-10-29T00:35:12.228058",
+        "accion": "aumentar_intensidad",
+        "razon": "feedback_muy_facil"
+      }
+    ]
+  },
+  "last_update": "2025-10-29T00:35:12.228078"
+}

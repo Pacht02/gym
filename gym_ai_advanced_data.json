@@ -1,0 +1,1728 @@
+{
+  "learning_system": {
+    "rutinas_generadas": [
+      {
+        "id": "RUT_20251029_170951",
+        "perfil": {
+          "edad": 23,
+          "peso": 70.0,
+          "altura": 162.0,
+          "imc": 0.0026672763298277702,
+          "nivel_num": 1,
+          "objetivo_num": 1,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "perder_peso"
+        },
+        "rutina": {
+          "rutina_semanal": {
+            "Día 1": [
+              {
+                "ejercicio": "Press declinado",
+                "grupo": "pecho",
+                "series": 3,
+                "repeticiones": "13-18",
+                "descanso": "37s"
+              },
+              {
+                "ejercicio": "Peso muerto",
+                "grupo": "espalda",
+                "series": 3,
+                "repeticiones": "15-16",
+                "descanso": "33s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 3,
+                "repeticiones": "15-18",
+                "descanso": "32s"
+              },
+              {
+                "ejercicio": "Dominadas cerradas",
+                "grupo": "brazos",
+                "series": 3,
+                "repeticiones": "13-20",
+                "descanso": "54s"
+              },
+              {
+                "ejercicio": "Trote",
+                "grupo": "cardio",
+                "duracion": "22 min",
+                "intensidad": "alta"
+              }
+            ],
+            "Día 2": [
+              {
+                "ejercicio": "Prensa",
+                "grupo": "piernas",
+                "series": 3,
+                "repeticiones": "13-20",
+                "descanso": "43s"
+              },
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 3,
+                "repeticiones": "14-18",
+                "descanso": "34s"
+              },
+              {
+                "ejercicio": "Elevación de piernas",
+                "grupo": "core",
+                "series": 3,
+                "repeticiones": "15-18",
+                "descanso": "49s"
+              },
+              {
+                "ejercicio": "Plancha",
+                "grupo": "core",
+                "series": 3,
+                "repeticiones": "15-20",
+                "descanso": "55s"
+              },
+              {
+                "ejercicio": "Elíptica",
+                "grupo": "cardio",
+                "duracion": "19 min",
+                "intensidad": "moderada"
+              }
+            ],
+            "Día 3": [
+              {
+                "ejercicio": "Press declinado",
+                "grupo": "pecho",
+                "series": 3,
+                "repeticiones": "12-20",
+                "descanso": "34s"
+              },
+              {
+                "ejercicio": "Peso muerto",
+                "grupo": "espalda",
+                "series": 3,
+                "repeticiones": "14-16",
+                "descanso": "37s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 3,
+                "repeticiones": "12-17",
+                "descanso": "59s"
+              },
+              {
+                "ejercicio": "Elíptica",
+                "grupo": "cardio",
+                "duracion": "17 min",
+                "intensidad": "moderada"
+              }
+            ],
+            "Día 4": [
+              {
+                "ejercicio": "Sentadilla",
+                "grupo": "piernas",
+                "series": 3,
+                "repeticiones": "14-15",
+                "descanso": "45s"
+              },
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 3,
+                "repeticiones": "12-20",
+                "descanso": "31s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 3,
+                "repeticiones": "14-17",
+                "descanso": "41s"
+              },
+              {
+                "ejercicio": "Crunches",
+                "grupo": "core",
+                "series": 3,
+                "repeticiones": "12-17",
+                "descanso": "40s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 3,
+                "repeticiones": "13-19",
+                "descanso": "46s"
+              },
+              {
+                "ejercicio": "HIIT",
+                "grupo": "cardio",
+                "duracion": "28 min",
+                "intensidad": "alta"
+              }
+            ]
+          },
+          "estructura": "upper_lower",
+          "metadatos": {
+            "modo_generacion": "exploracion",
+            "innovacion_level": "alta"
+          }
+        },
+        "fecha_generacion": "2025-10-29T17:09:51.063966",
+        "modo": "explotacion",
+        "generacion": 0
+      },
+      {
+        "id": "RUT_20251029_171042",
+        "perfil": {
+          "edad": 23,
+          "peso": 70.0,
+          "altura": 162.0,
+          "imc": 0.0026672763298277702,
+          "nivel_num": 1,
+          "objetivo_num": 1,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "perder_peso"
+        },
+        "rutina": {
+          "rutina_semanal": {
+            "Día 1": [
+              {
+                "ejercicio": "Press banca",
+                "grupo": "pecho",
+                "series": 3,
+                "repeticiones": "12-19",
+                "descanso": "57s"
+              },
+              {
+                "ejercicio": "Remo en polea",
+                "grupo": "espalda",
+                "series": 3,
+                "repeticiones": "12-18",
+                "descanso": "44s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 3,
+                "repeticiones": "13-18",
+                "descanso": "52s"
+              },
+              {
+                "ejercicio": "Dominadas cerradas",
+                "grupo": "brazos",
+                "series": 3,
+                "repeticiones": "12-16",
+                "descanso": "39s"
+              },
+              {
+                "ejercicio": "Sprints",
+                "grupo": "cardio",
+                "duracion": "26 min",
+                "intensidad": "HIIT"
+              }
+            ],
+            "Día 2": [
+              {
+                "ejercicio": "Prensa",
+                "grupo": "piernas",
+                "series": 3,
+                "repeticiones": "13-17",
+                "descanso": "44s"
+              },
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 3,
+                "repeticiones": "13-16",
+                "descanso": "41s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 3,
+                "repeticiones": "12-15",
+                "descanso": "41s"
+              },
+              {
+                "ejercicio": "Plancha",
+                "grupo": "core",
+                "series": 3,
+                "repeticiones": "15-19",
+                "descanso": "54s"
+              },
+              {
+                "ejercicio": "Escaladora",
+                "grupo": "cardio",
+                "duracion": "29 min",
+                "intensidad": "moderada"
+              }
+            ],
+            "Día 3": [
+              {
+                "ejercicio": "Press banca",
+                "grupo": "pecho",
+                "series": 3,
+                "repeticiones": "12-16",
+                "descanso": "32s"
+              },
+              {
+                "ejercicio": "Remo con barra",
+                "grupo": "espalda",
+                "series": 3,
+                "repeticiones": "12-17",
+                "descanso": "55s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 3,
+                "repeticiones": "14-17",
+                "descanso": "58s"
+              }
+            ],
+            "Día 4": [
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 3,
+                "repeticiones": "15-18",
+                "descanso": "58s"
+              },
+              {
+                "ejercicio": "Prensa",
+                "grupo": "piernas",
+                "series": 3,
+                "repeticiones": "12-18",
+                "descanso": "37s"
+              },
+              {
+                "ejercicio": "Remo al mentón",
+                "grupo": "hombros",
+                "series": 3,
+                "repeticiones": "15-19",
+                "descanso": "43s"
+              },
+              {
+                "ejercicio": "Elevación de piernas",
+                "grupo": "core",
+                "series": 3,
+                "repeticiones": "14-19",
+                "descanso": "57s"
+              },
+              {
+                "ejercicio": "Plancha",
+                "grupo": "core",
+                "series": 3,
+                "repeticiones": "14-15",
+                "descanso": "35s"
+              }
+            ]
+          },
+          "estructura": "upper_lower",
+          "metadatos": {
+            "modo_generacion": "exploracion",
+            "innovacion_level": "alta"
+          }
+        },
+        "fecha_generacion": "2025-10-29T17:10:42.627256",
+        "modo": "explotacion",
+        "generacion": 0
+      },
+      {
+        "id": "RUT_20251030_084130",
+        "perfil": {
+          "edad": 23,
+          "peso": 70.0,
+          "altura": 162.0,
+          "imc": 0.0026672763298277702,
+          "nivel_num": 1,
+          "objetivo_num": 2,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "ganar_masa"
+        },
+        "rutina": {
+          "rutina_semanal": {
+            "Día 1": [
+              {
+                "ejercicio": "Press inclinado",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "85s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "87s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "80s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "76s"
+              }
+            ],
+            "Día 2": [
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "74s"
+              },
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "70s"
+              },
+              {
+                "ejercicio": "Crunches",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "84s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "8-12",
+                "descanso": "61s"
+              }
+            ],
+            "Día 3": [
+              {
+                "ejercicio": "Fondos en paralelas",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "74s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "9-12",
+                "descanso": "69s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "72s"
+              }
+            ],
+            "Día 4": [
+              {
+                "ejercicio": "Sentadilla",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "10-10",
+                "descanso": "83s"
+              },
+              {
+                "ejercicio": "Prensa",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "77s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "80s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "10-10",
+                "descanso": "79s"
+              },
+              {
+                "ejercicio": "Elevación de piernas",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "82s"
+              }
+            ]
+          },
+          "estructura": "upper_lower",
+          "metadatos": {
+            "modo_generacion": "exploracion",
+            "innovacion_level": "alta"
+          }
+        },
+        "fecha_generacion": "2025-10-30T08:41:30.602258",
+        "modo": "explotacion",
+        "generacion": 0,
+        "parametros_inferidos": {
+          "series": 3,
+          "repeticiones_min": 8,
+          "repeticiones_max": 12,
+          "descanso": "60-90s",
+          "confianza": 0.5,
+          "basado_en": 0,
+          "metodo": "heuristica"
+        },
+        "clasificacion_usuario": {
+          "categoria": "novato",
+          "descripcion": "Primera vez usando el sistema",
+          "experiencias": 0,
+          "satisfaccion_promedio": 0,
+          "rendimiento": "necesita_ajuste",
+          "recomendaciones": [
+            "Comienza con rutinas Full Body 3 días/semana",
+            "Enfócate en aprender técnica correcta",
+            "Da feedback detallado para ayudar al sistema"
+          ]
+        },
+        "prediccion_satisfaccion": {
+          "satisfaccion_predicha": 3.5,
+          "confianza": 0.3,
+          "factores": {
+            "sin_datos": true
+          },
+          "recomendacion": true,
+          "metodo": "baseline"
+        }
+      },
+      {
+        "id": "RUT_20251030_195622",
+        "perfil": {
+          "edad": 23,
+          "peso": 70.0,
+          "altura": 162.0,
+          "imc": 0.0026672763298277702,
+          "nivel_num": 1,
+          "objetivo_num": 2,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "ganar_masa"
+        },
+        "rutina": {
+          "rutina_semanal": {
+            "Día 1": [
+              {
+                "ejercicio": "Press inclinado",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "78s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "8-10",
+                "descanso": "69s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "68s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "10-10",
+                "descanso": "75s"
+              }
+            ],
+            "Día 2": [
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "68s"
+              },
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "10-12",
+                "descanso": "69s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "64s"
+              },
+              {
+                "ejercicio": "Crunches",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "86s"
+              }
+            ],
+            "Día 3": [
+              {
+                "ejercicio": "Fondos en paralelas",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "90s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "9-12",
+                "descanso": "87s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "10-10",
+                "descanso": "67s"
+              }
+            ],
+            "Día 4": [
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "85s"
+              },
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "8-10",
+                "descanso": "76s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "81s"
+              }
+            ]
+          },
+          "estructura": "upper_lower",
+          "metadatos": {
+            "modo_generacion": "aprendizaje",
+            "basado_en": 1,
+            "confianza": 1.0
+          }
+        },
+        "fecha_generacion": "2025-10-30T19:56:22.954171",
+        "modo": "explotacion",
+        "generacion": 0,
+        "parametros_inferidos": {
+          "series": 4,
+          "repeticiones_min": 8,
+          "repeticiones_max": 12,
+          "descanso": "60-90s",
+          "confianza": 0.1,
+          "basado_en": 1,
+          "metodo": "inferencia_datos"
+        },
+        "clasificacion_usuario": {
+          "categoria": "novato",
+          "descripcion": "Primera vez usando el sistema",
+          "experiencias": 0,
+          "satisfaccion_promedio": 0,
+          "rendimiento": "necesita_ajuste",
+          "recomendaciones": [
+            "Comienza con rutinas Full Body 3 días/semana",
+            "Enfócate en aprender técnica correcta",
+            "Da feedback detallado para ayudar al sistema"
+          ]
+        },
+        "prediccion_satisfaccion": {
+          "satisfaccion_predicha": 4.5,
+          "confianza": 0.8,
+          "factores": {
+            "promedio_similares": 4.0,
+            "cantidad_similares": 1,
+            "similitud_promedio": 1.0,
+            "ajuste_complejidad": 0.875,
+            "patron_existe": true,
+            "cantidad_patrones": 1
+          },
+          "recomendacion": true,
+          "usuarios_similares": 1,
+          "metodo": "bayesiano"
+        }
+      },
+      {
+        "id": "RUT_20251030_202142",
+        "perfil": {
+          "edad": 22,
+          "peso": 180.0,
+          "altura": 90.0,
+          "imc": 0.022222222222222223,
+          "nivel_num": 1,
+          "objetivo_num": 2,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "ganar_masa"
+        },
+        "rutina": {
+          "rutina_semanal": {
+            "Día 1": [
+              {
+                "ejercicio": "Press inclinado",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "64s"
+              },
+              {
+                "ejercicio": "Remo con barra",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "8-12",
+                "descanso": "83s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "90s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "9-12",
+                "descanso": "62s"
+              }
+            ],
+            "Día 2": [
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "8-12",
+                "descanso": "81s"
+              },
+              {
+                "ejercicio": "Sentadilla",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "89s"
+              },
+              {
+                "ejercicio": "Elevación de piernas",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "73s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "85s"
+              }
+            ],
+            "Día 3": [
+              {
+                "ejercicio": "Press inclinado",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-12",
+                "descanso": "61s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "90s"
+              },
+              {
+                "ejercicio": "Dominadas cerradas",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "10-12",
+                "descanso": "81s"
+              }
+            ],
+            "Día 4": [
+              {
+                "ejercicio": "Sentadilla",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "8-10",
+                "descanso": "80s"
+              },
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "85s"
+              },
+              {
+                "ejercicio": "Remo al mentón",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "72s"
+              }
+            ]
+          },
+          "estructura": "upper_lower",
+          "metadatos": {
+            "modo_generacion": "aprendizaje",
+            "basado_en": 2,
+            "confianza": 0.9900522659145621
+          }
+        },
+        "fecha_generacion": "2025-10-30T20:21:42.464272",
+        "modo": "explotacion",
+        "generacion": 0,
+        "parametros_inferidos": {
+          "series": 4,
+          "repeticiones_min": 8,
+          "repeticiones_max": 12,
+          "descanso": "60-90s",
+          "confianza": 0.2,
+          "basado_en": 2,
+          "metodo": "inferencia_datos"
+        },
+        "clasificacion_usuario": {
+          "categoria": "novato",
+          "descripcion": "Primera vez usando el sistema",
+          "experiencias": 0,
+          "satisfaccion_promedio": 0,
+          "rendimiento": "necesita_ajuste",
+          "recomendaciones": [
+            "Comienza con rutinas Full Body 3 días/semana",
+            "Enfócate en aprender técnica correcta",
+            "Da feedback detallado para ayudar al sistema"
+          ]
+        },
+        "prediccion_satisfaccion": {
+          "satisfaccion_predicha": 5.0,
+          "confianza": 0.9,
+          "factores": {
+            "promedio_similares": 4.5,
+            "cantidad_similares": 2,
+            "similitud_promedio": 0.9900522659145621,
+            "ajuste_complejidad": 0.875,
+            "patron_existe": true,
+            "cantidad_patrones": 2
+          },
+          "recomendacion": true,
+          "usuarios_similares": 2,
+          "metodo": "bayesiano"
+        }
+      }
+    ],
+    "historico_usuarios": [
+      {
+        "perfil": {
+          "edad": 23,
+          "peso": 70.0,
+          "altura": 162.0,
+          "imc": 0.0026672763298277702,
+          "nivel_num": 1,
+          "objetivo_num": 1,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "perder_peso"
+        },
+        "rutina_id": "RUT_20251029_171042",
+        "rutina_exitosa": null,
+        "satisfaccion": 1,
+        "comentarios": "no me hizo sudar",
+        "fecha": "2025-10-29T17:11:52.035164"
+      },
+      {
+        "perfil": {
+          "edad": 23,
+          "peso": 70.0,
+          "altura": 162.0,
+          "imc": 0.0026672763298277702,
+          "nivel_num": 1,
+          "objetivo_num": 2,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "ganar_masa"
+        },
+        "rutina_id": "RUT_20251030_084130",
+        "rutina_exitosa": {
+          "rutina_semanal": {
+            "Día 1": [
+              {
+                "ejercicio": "Press inclinado",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "85s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "87s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "80s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "76s"
+              }
+            ],
+            "Día 2": [
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "74s"
+              },
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "70s"
+              },
+              {
+                "ejercicio": "Crunches",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "84s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "8-12",
+                "descanso": "61s"
+              }
+            ],
+            "Día 3": [
+              {
+                "ejercicio": "Fondos en paralelas",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "74s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "9-12",
+                "descanso": "69s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "72s"
+              }
+            ],
+            "Día 4": [
+              {
+                "ejercicio": "Sentadilla",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "10-10",
+                "descanso": "83s"
+              },
+              {
+                "ejercicio": "Prensa",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "77s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "80s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "10-10",
+                "descanso": "79s"
+              },
+              {
+                "ejercicio": "Elevación de piernas",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "82s"
+              }
+            ]
+          },
+          "estructura": "upper_lower",
+          "metadatos": {
+            "modo_generacion": "exploracion",
+            "innovacion_level": "alta"
+          }
+        },
+        "satisfaccion": 4,
+        "comentarios": "esta bien",
+        "fecha": "2025-10-30T08:41:56.303088"
+      },
+      {
+        "perfil": {
+          "edad": 23,
+          "peso": 70.0,
+          "altura": 162.0,
+          "imc": 0.0026672763298277702,
+          "nivel_num": 1,
+          "objetivo_num": 2,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "ganar_masa"
+        },
+        "rutina_id": "RUT_20251030_195622",
+        "rutina_exitosa": {
+          "rutina_semanal": {
+            "Día 1": [
+              {
+                "ejercicio": "Press inclinado",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "78s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "8-10",
+                "descanso": "69s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "68s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "10-10",
+                "descanso": "75s"
+              }
+            ],
+            "Día 2": [
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "68s"
+              },
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "10-12",
+                "descanso": "69s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "64s"
+              },
+              {
+                "ejercicio": "Crunches",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "86s"
+              }
+            ],
+            "Día 3": [
+              {
+                "ejercicio": "Fondos en paralelas",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "90s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "9-12",
+                "descanso": "87s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "10-10",
+                "descanso": "67s"
+              }
+            ],
+            "Día 4": [
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "85s"
+              },
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "8-10",
+                "descanso": "76s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "81s"
+              }
+            ]
+          },
+          "estructura": "upper_lower",
+          "metadatos": {
+            "modo_generacion": "aprendizaje",
+            "basado_en": 1,
+            "confianza": 1.0
+          }
+        },
+        "satisfaccion": 5,
+        "comentarios": "esta cool",
+        "fecha": "2025-10-30T19:57:06.868127"
+      },
+      {
+        "perfil": {
+          "edad": 22,
+          "peso": 180.0,
+          "altura": 90.0,
+          "imc": 0.022222222222222223,
+          "nivel_num": 1,
+          "objetivo_num": 2,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "ganar_masa"
+        },
+        "rutina_id": "RUT_20251030_202142",
+        "rutina_exitosa": {
+          "rutina_semanal": {
+            "Día 1": [
+              {
+                "ejercicio": "Press inclinado",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "9-11",
+                "descanso": "64s"
+              },
+              {
+                "ejercicio": "Remo con barra",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "8-12",
+                "descanso": "83s"
+              },
+              {
+                "ejercicio": "Press militar",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "90s"
+              },
+              {
+                "ejercicio": "Press cerrado",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "9-12",
+                "descanso": "62s"
+              }
+            ],
+            "Día 2": [
+              {
+                "ejercicio": "Sentadilla búlgara",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "8-12",
+                "descanso": "81s"
+              },
+              {
+                "ejercicio": "Sentadilla",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "9-10",
+                "descanso": "89s"
+              },
+              {
+                "ejercicio": "Elevación de piernas",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "73s"
+              },
+              {
+                "ejercicio": "Russian twists",
+                "grupo": "core",
+                "series": 4,
+                "repeticiones": "8-11",
+                "descanso": "85s"
+              }
+            ],
+            "Día 3": [
+              {
+                "ejercicio": "Press inclinado",
+                "grupo": "pecho",
+                "series": 4,
+                "repeticiones": "10-12",
+                "descanso": "61s"
+              },
+              {
+                "ejercicio": "Dominadas",
+                "grupo": "espalda",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "90s"
+              },
+              {
+                "ejercicio": "Dominadas cerradas",
+                "grupo": "brazos",
+                "series": 4,
+                "repeticiones": "10-12",
+                "descanso": "81s"
+              }
+            ],
+            "Día 4": [
+              {
+                "ejercicio": "Sentadilla",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "8-10",
+                "descanso": "80s"
+              },
+              {
+                "ejercicio": "Peso muerto rumano",
+                "grupo": "piernas",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "85s"
+              },
+              {
+                "ejercicio": "Remo al mentón",
+                "grupo": "hombros",
+                "series": 4,
+                "repeticiones": "10-11",
+                "descanso": "72s"
+              }
+            ]
+          },
+          "estructura": "upper_lower",
+          "metadatos": {
+            "modo_generacion": "aprendizaje",
+            "basado_en": 2,
+            "confianza": 0.9900522659145621
+          }
+        },
+        "satisfaccion": 5,
+        "comentarios": "estaba genial",
+        "fecha": "2025-10-30T20:22:21.940438"
+      },
+      {
+        "perfil": {
+          "edad": 22,
+          "peso": 180.0,
+          "altura": 90.0,
+          "imc": 0.022222222222222223,
+          "nivel_num": 1,
+          "objetivo_num": 2,
+          "dias": 4,
+          "nivel_str": "principiante",
+          "objetivo_str": "ganar_masa"
+        },
+        "rutina_id": "RUT_20251030_202142",
+        "rutina_exitosa": null,
+        "satisfaccion": 2,
+        "comentarios": "estaba genial",
+        "fecha": "2025-10-30T20:22:32.965234"
+      }
+    ],
+    "patrones_exitosos": {
+      "principiante_ganar_masa": [
+        {
+          "rutina": {
+            "rutina_semanal": {
+              "Día 1": [
+                {
+                  "ejercicio": "Press inclinado",
+                  "grupo": "pecho",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "85s"
+                },
+                {
+                  "ejercicio": "Dominadas",
+                  "grupo": "espalda",
+                  "series": 4,
+                  "repeticiones": "9-11",
+                  "descanso": "87s"
+                },
+                {
+                  "ejercicio": "Press militar",
+                  "grupo": "hombros",
+                  "series": 4,
+                  "repeticiones": "9-11",
+                  "descanso": "80s"
+                },
+                {
+                  "ejercicio": "Press cerrado",
+                  "grupo": "brazos",
+                  "series": 4,
+                  "repeticiones": "8-11",
+                  "descanso": "76s"
+                }
+              ],
+              "Día 2": [
+                {
+                  "ejercicio": "Peso muerto rumano",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "8-11",
+                  "descanso": "74s"
+                },
+                {
+                  "ejercicio": "Sentadilla búlgara",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "70s"
+                },
+                {
+                  "ejercicio": "Crunches",
+                  "grupo": "core",
+                  "series": 4,
+                  "repeticiones": "8-11",
+                  "descanso": "84s"
+                },
+                {
+                  "ejercicio": "Russian twists",
+                  "grupo": "core",
+                  "series": 4,
+                  "repeticiones": "8-12",
+                  "descanso": "61s"
+                }
+              ],
+              "Día 3": [
+                {
+                  "ejercicio": "Fondos en paralelas",
+                  "grupo": "pecho",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "74s"
+                },
+                {
+                  "ejercicio": "Dominadas",
+                  "grupo": "espalda",
+                  "series": 4,
+                  "repeticiones": "9-12",
+                  "descanso": "69s"
+                },
+                {
+                  "ejercicio": "Press cerrado",
+                  "grupo": "brazos",
+                  "series": 4,
+                  "repeticiones": "9-11",
+                  "descanso": "72s"
+                }
+              ],
+              "Día 4": [
+                {
+                  "ejercicio": "Sentadilla",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "10-10",
+                  "descanso": "83s"
+                },
+                {
+                  "ejercicio": "Prensa",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "77s"
+                },
+                {
+                  "ejercicio": "Press militar",
+                  "grupo": "hombros",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "80s"
+                },
+                {
+                  "ejercicio": "Russian twists",
+                  "grupo": "core",
+                  "series": 4,
+                  "repeticiones": "10-10",
+                  "descanso": "79s"
+                },
+                {
+                  "ejercicio": "Elevación de piernas",
+                  "grupo": "core",
+                  "series": 4,
+                  "repeticiones": "8-11",
+                  "descanso": "82s"
+                }
+              ]
+            },
+            "estructura": "upper_lower",
+            "metadatos": {
+              "modo_generacion": "exploracion",
+              "innovacion_level": "alta"
+            }
+          },
+          "satisfaccion": 4,
+          "fecha": "2025-10-30T08:41:56.303121"
+        },
+        {
+          "rutina": {
+            "rutina_semanal": {
+              "Día 1": [
+                {
+                  "ejercicio": "Press inclinado",
+                  "grupo": "pecho",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "78s"
+                },
+                {
+                  "ejercicio": "Dominadas",
+                  "grupo": "espalda",
+                  "series": 4,
+                  "repeticiones": "8-10",
+                  "descanso": "69s"
+                },
+                {
+                  "ejercicio": "Press militar",
+                  "grupo": "hombros",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "68s"
+                },
+                {
+                  "ejercicio": "Press cerrado",
+                  "grupo": "brazos",
+                  "series": 4,
+                  "repeticiones": "10-10",
+                  "descanso": "75s"
+                }
+              ],
+              "Día 2": [
+                {
+                  "ejercicio": "Sentadilla búlgara",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "68s"
+                },
+                {
+                  "ejercicio": "Peso muerto rumano",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "10-12",
+                  "descanso": "69s"
+                },
+                {
+                  "ejercicio": "Russian twists",
+                  "grupo": "core",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "64s"
+                },
+                {
+                  "ejercicio": "Crunches",
+                  "grupo": "core",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "86s"
+                }
+              ],
+              "Día 3": [
+                {
+                  "ejercicio": "Fondos en paralelas",
+                  "grupo": "pecho",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "90s"
+                },
+                {
+                  "ejercicio": "Dominadas",
+                  "grupo": "espalda",
+                  "series": 4,
+                  "repeticiones": "9-12",
+                  "descanso": "87s"
+                },
+                {
+                  "ejercicio": "Press cerrado",
+                  "grupo": "brazos",
+                  "series": 4,
+                  "repeticiones": "10-10",
+                  "descanso": "67s"
+                }
+              ],
+              "Día 4": [
+                {
+                  "ejercicio": "Peso muerto rumano",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "9-11",
+                  "descanso": "85s"
+                },
+                {
+                  "ejercicio": "Sentadilla búlgara",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "8-10",
+                  "descanso": "76s"
+                },
+                {
+                  "ejercicio": "Press militar",
+                  "grupo": "hombros",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "81s"
+                }
+              ]
+            },
+            "estructura": "upper_lower",
+            "metadatos": {
+              "modo_generacion": "aprendizaje",
+              "basado_en": 1,
+              "confianza": 1.0
+            }
+          },
+          "satisfaccion": 5,
+          "fecha": "2025-10-30T19:57:06.868156"
+        },
+        {
+          "rutina": {
+            "rutina_semanal": {
+              "Día 1": [
+                {
+                  "ejercicio": "Press inclinado",
+                  "grupo": "pecho",
+                  "series": 4,
+                  "repeticiones": "9-11",
+                  "descanso": "64s"
+                },
+                {
+                  "ejercicio": "Remo con barra",
+                  "grupo": "espalda",
+                  "series": 4,
+                  "repeticiones": "8-12",
+                  "descanso": "83s"
+                },
+                {
+                  "ejercicio": "Press militar",
+                  "grupo": "hombros",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "90s"
+                },
+                {
+                  "ejercicio": "Press cerrado",
+                  "grupo": "brazos",
+                  "series": 4,
+                  "repeticiones": "9-12",
+                  "descanso": "62s"
+                }
+              ],
+              "Día 2": [
+                {
+                  "ejercicio": "Sentadilla búlgara",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "8-12",
+                  "descanso": "81s"
+                },
+                {
+                  "ejercicio": "Sentadilla",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "9-10",
+                  "descanso": "89s"
+                },
+                {
+                  "ejercicio": "Elevación de piernas",
+                  "grupo": "core",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "73s"
+                },
+                {
+                  "ejercicio": "Russian twists",
+                  "grupo": "core",
+                  "series": 4,
+                  "repeticiones": "8-11",
+                  "descanso": "85s"
+                }
+              ],
+              "Día 3": [
+                {
+                  "ejercicio": "Press inclinado",
+                  "grupo": "pecho",
+                  "series": 4,
+                  "repeticiones": "10-12",
+                  "descanso": "61s"
+                },
+                {
+                  "ejercicio": "Dominadas",
+                  "grupo": "espalda",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "90s"
+                },
+                {
+                  "ejercicio": "Dominadas cerradas",
+                  "grupo": "brazos",
+                  "series": 4,
+                  "repeticiones": "10-12",
+                  "descanso": "81s"
+                }
+              ],
+              "Día 4": [
+                {
+                  "ejercicio": "Sentadilla",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "8-10",
+                  "descanso": "80s"
+                },
+                {
+                  "ejercicio": "Peso muerto rumano",
+                  "grupo": "piernas",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "85s"
+                },
+                {
+                  "ejercicio": "Remo al mentón",
+                  "grupo": "hombros",
+                  "series": 4,
+                  "repeticiones": "10-11",
+                  "descanso": "72s"
+                }
+              ]
+            },
+            "estructura": "upper_lower",
+            "metadatos": {
+              "modo_generacion": "aprendizaje",
+              "basado_en": 2,
+              "confianza": 0.9900522659145621
+            }
+          },
+          "satisfaccion": 5,
+          "fecha": "2025-10-30T20:22:21.940470"
+        }
+      ]
+    },
+    "combinaciones_ejercicios": {
+      "pecho": {
+        "Press inclinado": 3,
+        "Fondos en paralelas": 2
+      },
+      "espalda": {
+        "Dominadas": 4
+      },
+      "hombros": {
+        "Press militar": 4
+      },
+      "brazos": {
+        "Press cerrado": 4
+      },
+      "piernas": {
+        "Peso muerto rumano": 3,
+        "Sentadilla búlgara": 3,
+        "Sentadilla": 1,
+        "Prensa": 1
+      },
+      "core": {
+        "Crunches": 2,
+        "Russian twists": 3,
+        "Elevación de piernas": 1
+      }
+    },
+    "parametros_optimos": {},
+    "generacion": 0,
+    "tasa_aprendizaje": 0.1,
+    "factor_exploracion": 0.21999999999999997
+  },
+  "metricas": {
+    "precision_predicciones": [],
+    "satisfaccion_promedio_por_generacion": [
+      {
+        "generacion": 0,
+        "satisfaccion": 1
+      },
+      {
+        "generacion": 0,
+        "satisfaccion": 4
+      },
+      {
+        "generacion": 0,
+        "satisfaccion": 5
+      },
+      {
+        "generacion": 0,
+        "satisfaccion": 2
+      }
+    ],
+    "mejores_rutinas": []
+  },
+  "last_update": "2025-10-30T20:22:32.965510"
+}
